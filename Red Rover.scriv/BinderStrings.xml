@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>10</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>More character-driven.
+One of the big 'challenges' I want to get into is developing exciting, humorous, *believable* NPCs in Inform7 -- a task that is near and dear to Emily Short's own research efforts.  This is a real challenge and there's a lot of prior work to study and build on.   Character relationships should be at the heart of the story.
+
+Conversational Focus
+In writing the sequel I'd like to make a very conscious effort to be efficient in terms of writing time -- this is more of an issue this year since I won't have a long, European vacation all summer in 2010. The writing for RDO was broad and deep -- there's stuff in there that no one will ever hit, but I enjoyed putting it in for that 1/100 person that will randomly try to surrender in French, attempt to sudo the ACU, etc. While I enjoy these Easter Eggs, I'd like to focus on game elements that are likely to be seen, and to smoothly highlight those elements so that the amount of time spent working on a section is mirrored by player exposure those sections. Every object will still have strong depth of description, but overall, I'd like to pick our battles more selectively. If we chose one item to focus our firepower on in this game, I'd like it to be conversation. It's an IF holy grail, and something that not many people can do well. There's also room for innovation (see section "conversation").
+
+Less hard sci-fi, more ethical/moral tensions
+Emily Short believes that good sci-fi is mainly about the question of what it means to be human, and/or ethical/moral;  the science merely provides the interesting scenario in which to examine these issues.
+
+Strong upfront player engagement
+
+Episode should stand alone, as well as work as sequel
+
+Some analogue of the remember verb
+
+"Building sense of urgency" — which Emily liked so much.   
+Probably comes from years of Nascrag end-of-round-2-death-trap scenarios.  But a bit of nail-biting (like the boarding scene) is good once per adventure.  :-)  A golden banana of discord.  Literally.  -Ben Collins-Sussman 10/14/09 11:35 AMHah! -john welch 10/15/09 11:11 PM 
+
+Some of the props from RDO should appear 
+-- e.g., Janet's oversize blue futon should end up in her bedroom on the ship.
+
+
+NON-GOALS — AVOID THESE!
+Waking up with a hangover, in a cave, speaking only German.
+Boredom and repetition.
+Anything that will lose the fickle faith of the judges/players in the first ten minutes.
+Obvious technomasturbation à la this year's unix command line, man pages, etc.
+Multiple character perspectives.
+</string>
+		<key>Title</key>
+		<string>Goals</string>
+	</dict>
+	<key>11</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>
+        Cast: Three characters are present on the Valkyrie: Janet, Rover and Elva the Cleaning Lady. 
+
+* Elva was introduced in the first paragraph of RDO, and she's based on one of the janitors who worked late nights at the institution where I did my doctoral research. She's a chain smoker, a hypochondriac, a grandmother, an ex-marine, and anything else we need her to be. We could consider a few explanations about how she ended up on board such as hitting her head on a bulkhead before launch, breathing in a bad mixture of cleaning chemicals, etc., but whatever the explanation, she isn't found until after the first Casimir jump, and for logistic reasons (or perhaps because they don't want to attract attention from Earth), Valkyrie can't turn back. The story is told from Elva's perspective, which is convenient for avoiding technobabblecreep: she's the ship's janitor and aside from a general familiarity with the technology of her time, she isn't too sophisticated; in fact, she's something of a luddite. It's reasonable for her and the player to learn as they go. To make it interesting, Elva also isn't a very good reader. Not so much illiteracy or dyslexia -- more a matter of experimental drugs, oxygen deprivation, attitude and lack of patience.  LOVE the idea of Elva being the player/narrator!  Perhaps we could split up the plot and allow the player to play Janet and Rover at other points too -- much like photopia, but not quite as schitzophrenic.  More like Hitchhiker's guide.  -Ben Collins-Sussman 10/14/09 10:54 AM 
+* Janet - Appointed to Head of MARSpace after events in RDO. She has issues with the loss of Tomasz and betrayal by David. She has not enjoyed the limelight, nor her increased responsibilities as director of MARSpace; really, she'd rather be coding. She insisted on piloting Valkyrie alone on this mission, ostensibly because of concern about Casimir jumping living organisms, but also because she wanted to get away from it all. Janet has more-than-human knowledge about the way Valkyrie works because after the mission, a diff was created between the ACUs mental state and Janet's at the time of her earlier synaptic scan. The fork was remerged, giving Janet awareness of what it was like to be the ACU, and of everything that the ACU experienced. Janet is still trying to fully integrate that experience.
+* Rover - In order to find out what the ROVER had experienced, the same process was performed merging the ROVER memories on top of Rover's. To verbalize these memories, Rover himself required an upgrade -- a cybernetic implant to expand his memory and to perform higher order cognitive functions. He also needed a verbal center to express himself. Here, Janet was able to pull some of her early work from graduate school in which Tomasz had served as her test subject. Consequently, Rover not only talks like Tomasz, but due to the holographic nature of human memory storage, he has acquired some of Tomasz's memories and personality. The Rover/Janet relationship should offer a lot of room for exploration.  Ooooh, awesome character tension... -Ben Collins-Sussman 10/14/09 10:55 AM 
+* Valkyrie has been updated to maintain itself, but is no longer sentient.
+Schtick: 
+    * Brief exposition; introduction of Elva
+
+* Everyone has a communicator/implant -- this allows everyone to talk/listen regardless of where they are (on/off camera). This means that short Rover/Janet conversations can occur in metatext when they aren't directed to/from Elva.
+    * Rover and Janet find something interesting on the planet, take a shuttle down, tell Elva not to touch anything.
+    * The Lysithians arrive, capture Rover/Janet; Elva hears everything   As I babbled earlier, I think the Lysithians can be all the more mysterious (and menancing) if their existence is kept "offstage" -- allowing our player's imagination to fill in the details of just how scary they are.  -Ben Collins-Sussman 10/14/09 10:56 AM 
+    * stuff happens...
+
+</string>
+		<key>Title</key>
+		<string>Concept Pitch 1</string>
+	</dict>
+	<key>12</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>David's dead but not gone. Having access to Janet's synaptic scanner, he made a backup of himself just before he and Janet went over to debrief Valkyrie. He sent his backup to Earth, where it was restored into...something. Perhaps another ship? Now David is the ACU of an Earth military ship that's been sent out to hunt down Janet and Rover... Nice idea.  Especially when we can throw *two* antagonists into the plot now (Earth and Lysithia).  David could be the more tangible, present enemy, while Lysithians are the omnipresent background threat we're trying to avoid attention from.  -Ben Collins-Sussman 10/14/09 10:59 AM  </string>
+		<key>Title</key>
+		<string>Concept Pitch 2</string>
+	</dict>
+	<key>13</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>Rover and Janet have been captured by the Lysithians, with either backstory or flashbacks filling in how they arrived at that situation. The dog-like minions of the Lysithians presume that Rover is in charge, and that Janet is his servant. Janet and Rover need to escape, learn about the Lysithians, and get the message back to Mars.Flash Gordon alert.  :-)   
+To elaborate:  I think IF works best when you can force things into a "exploring solo" scenario.  One of the big games of good IF, I think, is to try and come up with a justification for solo adventuring/exploration that doesn't feel utterly contrived.  (Hence the comments about "My Apartment" games.)  I get very worried at "big groups of people capturing other big groups of people" -- it works fine as a Rileycon adventure with 2 DMs and 10 players, but seems awfully tricky to pull off in an IF medium.   -Ben Collins-Sussman 10/14/09 11:01 AM
+Oct 18, 2009
+
+John:
+We want to avoid the "twin banalities" in this game. It's easy enough to strand Elva on the ship ("Now, don't touch anything until we get back!"), but we don't want that to smell too much of either Apartment or Spacecraft setting. We've got to get her somewhere else, and that choice of setting is going to be a major driver for the game. The obvious candidate is another site on Aurora, at some distance from Rover and Janet.
+
+Ben:
+Yes indeed, I think the plot should mainly involve 2 or 3 characters simultaneously exploring the planet -- either the fields, the technology/bots left behind to manage the crops, alien ruins, etc.  We can even flip perspectives between playing different characters, and then somehow tie their discoveries or paths together.
+
+ </string>
+		<key>Title</key>
+		<string>Concept Pitch 3</string>
+	</dict>
+	<key>14</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string> I like conveying information via dialogue, but the medium is not very well suited to long passages. Most of the David/Janet dialogue was short exchanges, and I think this works well. It will have more of a game versus literary feel, but I'm comfortable making that design decision.
+On conversation systems: Originally, I didn't like menu-drive conversation because it seemed to take too much freedom away from the player. I did both ask/show/tell and menu-driven in 9/10ths, and the ask/tell system is used exclusively in RDO. After the RDO experience, it's more clear to me that both approaches are closed systems. After phototopia and others, I'm leaning in favor of the menu-driven approach because it can give a stronger voice to the characters. It may impinge on the agency of the player, but we'll have to be sensitive to that issue.
+Here's an idea that has been percolating in my head for a while: 
+In the early game, Elva meets up with Rover and Janet, and their dialogue takes place on screen, as usual.
+Before Janet and Rover go on their away mission, Janet hooks everyone up with little hats which can turn thoughts into radio broadcasts -- not every thought, thoughts which are verbalized. She does this in order to assure that they have a constant "hands free" link. When the link goes active, I'd like to dedicate some screen real estate to Elva, Janet and Rover. It may be a challenge to do this in ways that 1) work on smaller screens (mobile devices in particular), 2) don't break glk, 3) keep the timing and relationship between thoughts clear, and 4) allow for some scroll-back in case things went by too quickly.
+One possible way to do this would be to have three parallel one line windows at the top or bottom (a little like Earl Grey's commentary) and to scroll the buffer right to left, like a news ticker. It might take some doing (bordering on glx-machine abuse) to get the line to slide back and forth. If the space were two characters high, we could use more traditional scroll bars (indeed, you'd expect these to be implemented by the interpreter, an expectation that certainly won't be met on the low-end glk implementations).
+For instance see this picture.
+Having the mind-link does a few things for us -- it gives us a reason to keep Rover &amp; Janet in "conversation scope" over a larger proportion of the game. The more exposure we have to David and Janet, the better we can do in terms of character exploration. However, since their dialogue is not directly inline, it means that they can carry on, make external comments, etc., without derailing Elva's descriptive text and actions. We get solo-exploration, but keep a social element.
+By making the link rely on radio, we can limit the effect when we want, and have some fun. For instance, there could be a one-turn speed-of-light delay in conversation when Rover/Janet are a planet away from Elva. Kind of an auditory Byzantine Perspective.
+I'd like to use menu-drive text for PC speech. The menu can either come up in reaction to something the NPC does/says, or directly when the player says to "talk to..." someone.
+
+</string>
+		<key>Title</key>
+		<string>Conversation Strategies</string>
+	</dict>
+	<key>16</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>	◦	Elva wakes up.
+	▪	convey some background through inventory
+	▪	locket: introduce a "remember" system to give deeper background as needed
+	▪	realizes cleaning fluid vapors knocked her out
+	▪	to leave kitchen: needs to turn on stove's exhaust fan
+	▪	stove is an NPC (and one of the few ship systems that will respond to Elva)
+	▪	Elva can look out window &amp; realize she's in space
+	◦	Elva can explore ship
+	▪	Her access is relatively limited at this point, as she's not on the crew roster.
+	▪	Meanwhile, Janet and Rover go about their routine offstage - the place the encounter Elva will vary; whoever meets Elva calls for the other
+	▪	If Elva is not met in time for the next jump, the next jump is rough on her
+	▪	If Elva monkeys with stuff on the ship, Janet/Rover will come to investigate
+	◦	Elva meets Janet and Rover
+	▪	Surprise immediately becomes distrust -- why is Elva here? Is she an Earth spy? How could she have survived the Casimir jumps?
+	▪	Arrive at planet - Janet becomes dismissive - you want to help? Go make some sandwiches. Rover and Janet become involved with technostuff, ignoring Elva.
+	▪	They grant her limited access and put her on the crew roster.
+	◦	Elva can decide to make sandwiches or wander around
+	▪	Can notice various things wrong with ship and/or fix them, winning some trust from Janet.
+	▪	Early on, Elva finds a roll of duct tape, and can fix almost anything with it. These problems/repairs are rule-based and should have a real impact on story if not fixed now or later.
+	▪	shuttle problem
+	▪	engine problem
+	▪	etc
+	▪	after a while, if no lunch, Rover will come down to see about the delay
+	▪	Can make lunch
+	▪	Again, interacts with stove; must convince stove to take her orders. Can assert authority by virtue of her (more or less honorary) rank of Commodore. Stove negotiates with Valkyrie and complies.
+	▪	Rover pops in when food's ready and has some chat with Elva, explaining that Janet really isn't that bad once you get to know her.
+	▪	Potential for discussion of Janet/Rover/Tomasz/RDO backstory
+	◦	Lunch on the Bridge
+	▪	Some discussion of the Rover/Janet/Tomasz relationship -- Janet doesn't want to open up. Similarly, some background for Elva; Elva is also reticent about her personal matters.
+	▪	Probe spots something interesting (ruins? evidence of tech?) - reason for away mission. Janet wants to go alone, but Rover and Elva convince her to take Rover, leaving Elva on ship. Janet makes Elva promise not to do anything crazy, implants communicator in Elva -- now display changes to show "voice tracks".
+	◦	Rover and Janet take shuttle.
+	▪	From this point, until loss of communications with Rover/Janet, their interstitial chatter can give both more background about them, as well as some idea of what they're doing on planet. Some idea about what they're seeing.
+	◦	Communication from earth -- confusion at having Elva reply
+	▪	Do they tell her about launch of Earth ship?
+	▪	
+	◦	Loss of communication with Janet and Rover
+	◦	
+	•	
+	•	
+</string>
+		<key>Title</key>
+		<string>Older outline</string>
+	</dict>
+	<key>17</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>We need to capture the latest outline we discussed when Ben visited Jack’s house!
+</string>
+		<key>Title</key>
+		<string>Newer outline</string>
+	</dict>
+	<key>3</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>Greyish-brown liquid swirls gently, mixing with a purple puddle only inches from your nose. The liquid feels cool against the throbbing left side of your head which rests on metallic floor.
+
+&gt;about
+[about text, help, credits, etc.]
+
+&gt;x me
+You are wearing a blue jumpsuit, just like everyone else at work. On the front, there's a MARSpace symbol and below that, some writing: Elva Foxtree, Janitor.
+
+&gt;i
+You are wearing a jumpsuit. In your pockets, you have:
+    * A MARSpace employee card.
+    * A Veteran's card
+    * A minimed dispenser
+    * A memory locket
+    * A neocigar
+
+&gt;search pockets
+You find a MARSpace employee badge, a Veteran's card, a minimed dispenser, and a memory locket.
+
+&gt;x badge
+A hologram of your head rotates slowly above the badge, which identifies you as:
+FOXTREE, ELVA
+EMPLOYEE 000005
+SERVICE ENTRY 8 JAN 2353
+CUSTODIAL TECHNICIAN, 1ST CLASS
+CLEARANCE: ALLOW ALL
+
+&gt;x card
+Your original card from MinVet is worn and faded, but its certifications never fail to impress citizens in the food queues or at MARSmed: Four years service in the translunar war as a Bluesuit, three more in the Belt Mutiny as a volunteer, and just seven years ago, a Leadership commendation in the War of Martian Independence. You are proud that the card also note your active reserve status (good for 20% additional discount on treatments at MARSmed).
+
+&gt;x dispenser
+A silvery tube with an orange button on one end, and an opening on the other.
+
+&gt;x opening
+You can't see far into the dispenser. The opening is where the pills come out.
+
+&gt;press orange
+You press the orange button and wave the dispenser over your body. It takes a bit longer than usual to synthesize whatever it thinks you need, and little white pill pops out.
+
+&gt;x pill
+A small, round disc with no writing on it.
+
+&gt;eat pill
+You chew the pill carefully to avoid damaging any of your dental work. You feel less lightheaded and stiff, and your aches and pains are almost back to usual.
+
+&gt;press orange
+You press the orange button and wave the dispenser over your body. All you get from the dispenser is a curt beep, indicating that it doesn't think you need anything else right now.
+
+&gt;x locket
+Can the walk down memory lane wait a minute? You're lying on the floor of a gahbedanked spaceship in puddle of grape-scented chemicals and the last thing you remember is cleaning the Galley during the prelaunch check. Surely, your granddaughter would understand it you looked at her gift later. Besides, without your glasses, you couldn't really see much anyhow.
+
+&gt;x suit
+Drab blue, with a single zipper running down the front. The suits aren't much on looks, but they're tough, made of the same stuff as the underwear you used to wear back in the Marines. Actually, it's gotten a lot softer since then.
+
+&gt;x insignia
+The new one -- Arun Mackay approved it twenty years ago when he was director of MARSpace. The insignia is a cheap fabric patch showing a rocket blasting off from Mars. You prefer the older patches that had the word "MARSpace" on them, so they actually told you something useful. They were also better made and had brighter colors (or maybe the colors are the same, but your eyesight's gotten worse).
+
+&gt;x floor
+It's too close to your face to see much of it beyond the multicolored puddle in which your head is soaking. The floor smells horrible.
+
+&gt;smell floor
+Against your better judgement, you take a deep breath and cough hoarsely, choking on the fumes rising off the floor. You almost wretch, but then you consider all the other things that you've ingested in your life and managed not to throw up. The raw, burning chemical smell isn't any worse that the smell of the inside of the waste urea processor; no, what gets you is the mixture of that smell plus grape flavoring.
+
+&gt;stand
+You flex your legs slightly, trying to work the arthritis out of your knees and your hips. You hope your back doesn't spasm. As you push up from a sideways sitting position, you feel lightheaded and disoriented. The room darkens. You ease yourself back down to the floor. At your age, you've learned to take things slowly when need be.
+
+&gt;look
+The room is sideways. And blurry. Light glints off something in the middle of the puddle in front of you.
+
+&gt;e
+You don't quite have your bearings -- you can't even see straight.
+
+&gt;x shiny
+Without your glasses you can't really make out what it is.
+
+&gt;get shiny
+You pick up your glasses and wipe off the gook. As you slide them on, the room comes into focus and a heads-up display activates. Ah, you are in the Galley. That would make sense, as that's the last place you were working. Two of the maintenance gorillas had been making some last minute mods down here and had spilled something all over the floor. That's right. The prima donna director of MARSpace had ordered the kvas dispenser to be replaced by grape soda. Another of her eccentric whims -- as if taking her Frankenstein dog along on the flight wasn't bad enough. Grape soda. Disgusting. A purplish, grape-smelling haze hangs in the air.
+
+GALLEY
+The ship's galley combines a small functional kitchen with a cozy eating area: about what you'd expect to be allocated to a factory family with a couple kids. During the Valkyie's refit, you were surprised to see them install such an elaborate kitchen considering that most of the meals would be  self-preparing. Another of Janet's eccentricities, you suppose. The fridge, stove, sink and cabinet are built into one wall, and a small table and two benches extend from the opposite wall. A caustic grape-scented miasma wafts through the Galley. Stairs lead slightly up and to the north towards the living module. 
+
+On the floor, there is a white plastic bottle, an orange plastic bottle and a purple soda syrup tank. A mop is also here. The floor is partially covered by a brownish-purple puddle which has been partially mopped up.
+
+&gt;x white
+The bottle is labeled "Stain Nuker", and has a brilliant animated mushroom cloud on the front. Despite what the rest of the cleaning crew says about skin irritation-this and carcinogen-that, there's no arguing the fact that Stain Nuker gets the job done -- and quickly. You must have used the whole bottle on this spill. There's lots of writing on the label, in small print.
+
+&gt;read small print
+It sounds like a committee of lawyers and chemists wrote this stuff. Octa-decyl-ammonio-boloney-avocado-chemical-something-dioxide... well ventilated... dilute 1:1000 prior to use.. at your own risk... no fitness of purpose implied or stated... blah blah... known teratogen... anaphylaxis, skin sloughing, and brain damage... it doesn't say much really. Oh, here. This part. This must be important because it's in red: DO NOT MIX WITH OTHER CLEANING AGENTS. WILL EVOLVE TOXIC VAPOR IF MIXED WITH HALIDE-CONTAINING something or other. Then there are a lot of other words with numbers in them and who to call if bad stuff happens, and a lot of other useless crap that they had to put on the label because some bureaucrat had nothing better to do that day.
+
+&gt;x orange bottle
+Manny told you about this stuff last week. It doesn't really have a name because it's not something they can sell in stores. He told you the name, "iodo-chloro-poly-goobledegook" or some such, but the point is that it is the best metal polisher in town. He told you not to put too much of it anything structural, but aside from that, you figure you can use it anywhere you need something cleaned fast. Looks like you used the whole bottle on this job because you were trying to go fast, right before the launch.
+
+&gt;x tank
+A plastic tank that either started out purple or was stained that way by the grape soda syrup that it contained. The tank is lying the floor, empty.
+
+&gt;x floor
+Quite a mess. A muddy mixture of heavy duty cleaning agents and grape soda.
+
+&gt;x fridge
+A stainless steel fridge is set into the bulkheads. It has a single door and no status indicators, although you can tell from the hum that it's on.
+
+&gt;open fridge
+The movement makes you feel nauseous and light-headed.
+
+&gt;u
+You reach towards the stairs that lead of the galley, and you nearly black out from the attempt. Again, little black and white dots spin chaotically as you move your head back and forth.
+
+&gt;x oven
+The stove is a CuisinSmart 7000. Not quite as expensive as a Cupertino SmartRange, but still something you'd only expect to see in the official quarters of a member of the Politburo or a MARSdep head. The stove has a cooking surface, and above that a combination fan and light source. Sensing that it is being stared at, the stove asks you, "Hello, madame. I am pleased to have this opportunity to make your acquaintance. Please pardon my forwardness, but I have been waiting some time for you to recover consciousness in order that I might present myself formally to you. I am CuisinSmart Culinary Appliance Designation 7000 Serial Number Zed-05-stroke-J. To converse with me, say "TALK TO" followed by my name.
+
+&gt;talk to stove
+The stove replies patiently, "That is not my designation. My designation is Culinary Appliance Designation 7000 Serial Number Zed-05-stroke-J."
+
+&gt;tell the stove to/s+[go]/s*[a-z]+/sitself.$
+I regret, madame, that I lack the means to perform that self-referential action.
+
+&gt;talk to CuisinSmart Culinary Appliance Designation 7000 Serial Number Zed-05-stroke-J
+[1] "Um. This isn't working for me, can I call Sue?"
+[2] "Ovens shouldn't talk. Now shut up, and let me think my way of this mess."
+[3]" I don't need a chef, I need a doctor."
+[4] "Don't call me madame, it makes me grumpy. My name's Elva."
+[0] To say nothing. </string>
+		<key>Title</key>
+		<string>Elva Intro</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string></string>
+		<key>Title</key>
+		<string>Goals</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>3 Protagonists:
+
+Janet 
+Rover
+Elva
+
+Character Axes:
+
+Rover-Janet
+	Rover
+	Janet
+
+Rover-Elva
+	Rover
+	Elva
+
+Elva-Janet
+	Janet
+		early - Elva shouldn't be on board; she's a burden and a draw on resources. Janet doesn't think Elva can understand anything as complex as the ship, and is worried that Elva might touch the wrong things. Sees Elva as a grouchy, grandmother, a cog-in-the-machine civil servant who's just hanging on to her lowly janitorial job until mandatory retirement to boost her pension.
+		mid - 
+		late - 
+
+	Elva
+		early - Sees Janet as a media darling after the first mission, and someone who didn't deserve promotion to Directorship. Janet is too young and inexperienced to lead. Considers Janet an eccentric prima donna, who doesn't have the slightest inkling of command responsibilities.
+		mid -
+		late - Towards the end, Elva is interested in fixing Janet up with her son (add tragic backstory about her daughter-in-laws' death during Independence War).
+
+</string>
+		<key>Title</key>
+		<string>Characters</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string></string>
+		<key>Title</key>
+		<string>Plot Outline</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>MARSmil came up with a way to allow living organisms to withstand Casimir jumps. It's risky, particularly given the multiple jumps necessary to reach Aurora -- that's one of the reasons that Janet and Rover meant to go it alone.
+
+I don't think we should give a full technical explanation, other than there's some sort of extensive biological preparation and "jump pods" involved.
+
+Elva managed to get through a couple jumps without these special arrangements because 1) she knocked herself out with cleaning chemicals and 2) she's just that tough.</string>
+		<key>Title</key>
+		<string>Assumptions</string>
+	</dict>
+</dict>
+</plist>
