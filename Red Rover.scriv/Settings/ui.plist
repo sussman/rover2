@@ -4,6 +4,13 @@
 <dict>
 	<key>.lockedInPlace</key>
 	<false/>
+	<key>SCRSelectedCompileOptionsInfoSaveName</key>
+	<dict>
+		<key>Tag</key>
+		<integer>0</integer>
+		<key>Title</key>
+		<string>Custom</string>
+	</dict>
 	<key>binderSelection</key>
 	<array>
 		<integer>1</integer>
@@ -22,6 +29,17 @@
 		<integer>6</integer>
 	</array>
 	<key>closedSuccessfully</key>
+	<true/>
+	<key>collectionsHeight</key>
+	<real>101</real>
+	<key>collectionsRepresentedBinderDocumentsInfo</key>
+	<dict>
+		<key>MainID</key>
+		<string></string>
+		<key>SupportingID</key>
+		<string></string>
+	</dict>
+	<key>collectionsTabListIsCollapsed</key>
 	<true/>
 	<key>editorSplitType</key>
 	<integer>0</integer>
@@ -46,6 +64,10 @@
 	</array>
 	<key>mainDocumentEditor.corkboardVisible</key>
 	<false/>
+	<key>mainDocumentEditor.currentEditorViewMode</key>
+	<integer>0</integer>
+	<key>mainDocumentEditor.editorGroupsViewMode</key>
+	<integer>2</integer>
 	<key>mainDocumentEditor.lockedInPlace</key>
 	<false/>
 	<key>mainDocumentEditor.navHistory</key>
@@ -542,12 +564,105 @@
 			</dict>
 		</array>
 	</dict>
+	<key>mainDocumentEditor.navigationHistory</key>
+	<dict>
+		<key>CurrentIndex</key>
+		<integer>8</integer>
+		<key>NavigationHistoryArray</key>
+		<array>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>3</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>9</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>16</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>17</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>11</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>5</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>7</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>10</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>BinderDocIDs</key>
+				<array>
+					<integer>3</integer>
+				</array>
+				<key>ViewMode</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
 	<key>mainDocumentEditor.outlinerVisible</key>
 	<false/>
+	<key>mainDocumentEditor.selectedRanges</key>
+	<string>{401, 0}</string>
+	<key>mainDocumentEditor.textEditorState</key>
+	<dict>
+		<key>hasMultiplePages</key>
+		<false/>
+		<key>textScale</key>
+		<integer>100</integer>
+		<key>usesFacingPages</key>
+		<false/>
+	</dict>
 	<key>mainDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>mainWindowFrame</key>
 	<string>0 59 1280 719 0 0 1280 778 </string>
+	<key>supportingDocumentEditor.selectedItemIDs</key>
+	<array/>
 	<key>supportingDocumentEditor.textMode</key>
 	<integer>0</integer>
 	<key>supportingDocumentViewIsCurrent</key>

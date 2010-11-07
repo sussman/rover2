@@ -5,10 +5,12 @@
 
 \f0\fs26 \cf0  I like conveying information via dialogue, but the medium is not very well suited to long passages. Most of the David/Janet dialogue was short exchanges, and I think this works well. It will have more of a game versus literary feel, but I'm comfortable making that design decision.\
 On conversation systems: Originally, I didn't like menu-drive conversation because it seemed to take too much freedom away from the player. I did both ask/show/tell and menu-driven in 9/10ths, and the ask/tell system is used exclusively in RDO. After the RDO experience, it's more clear to me that both approaches are closed systems. After phototopia and others, I'm leaning in favor of the menu-driven approach because it can give a stronger voice to the characters. It may impinge on the agency of the player, but we'll have to be sensitive to that issue.\
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\fi560\sl288\slmult1\sb160\ql\qnatural\pardirnatural
 
-\b Here's an idea that has been percolating in my head for a while: \
+\b \cf0 Here's an idea that has been percolating in my head for a while: \
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\fi560\sl288\slmult1\sb160\ql\qnatural\pardirnatural
 
-\b0 In the early game, Elva meets up with Rover and Janet, and their dialogue takes place on screen, as usual.\
+\b0 \cf0 In the early game, Elva meets up with Rover and Janet, and their dialogue takes place on screen, as usual.\
 Before Janet and Rover go on their away mission, Janet hooks everyone up with little hats which can turn thoughts into radio broadcasts -- not every thought, thoughts which are verbalized. She does this in order to assure that they have a constant "hands free" link. When the link goes active, I'd like to dedicate some screen real estate to Elva, Janet and Rover. It may be a challenge to do this in ways that 1) work on smaller screens (mobile devices in particular), 2) don't break glk, 3) keep the timing and relationship between thoughts clear, and 4) allow for some scroll-back in case things went by too quickly.\
 One possible way to do this would be to have three parallel one line windows at the top or bottom (a little like Earl Grey's commentary) and to scroll the buffer right to left, like a news ticker. It might take some doing (bordering on glx-machine abuse) to get the line to slide back and forth. If the space were two characters high, we could use more traditional scroll bars (indeed, you'd expect these to be implemented by the interpreter, an expectation that certainly won't be met on the low-end glk implementations).\
 For instance see this picture.\
