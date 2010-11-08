@@ -1,41 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SearchIndexes Version="1.0">
     <Documents>
-        <Document ID="10">
-            <Title>Goals</Title>
-            <Text>More character-driven.
-One of the big 'challenges' I want to get into is developing exciting, humorous, *believable* NPCs in Inform7 -- a task that is near and dear to Emily Short's own research efforts.  This is a real challenge and there's a lot of prior work to study and build on.   Character relationships should be at the heart of the story.
+        <Document ID="5">
+            <Title>Characters</Title>
+            <Text>3 Protagonists:
 
-Conversational Focus
-In writing the sequel I'd like to make a very conscious effort to be efficient in terms of writing time -- this is more of an issue this year since I won't have a long, European vacation all summer in 2010. The writing for RDO was broad and deep -- there's stuff in there that no one will ever hit, but I enjoyed putting it in for that 1/100 person that will randomly try to surrender in French, attempt to sudo the ACU, etc. While I enjoy these Easter Eggs, I'd like to focus on game elements that are likely to be seen, and to smoothly highlight those elements so that the amount of time spent working on a section is mirrored by player exposure those sections. Every object will still have strong depth of description, but overall, I'd like to pick our battles more selectively. If we chose one item to focus our firepower on in this game, I'd like it to be conversation. It's an IF holy grail, and something that not many people can do well. There's also room for innovation (see section "conversation").
+Janet 
+Rover
+Elva
 
-Less hard sci-fi, more ethical/moral tensions
-Emily Short believes that good sci-fi is mainly about the question of what it means to be human, and/or ethical/moral;  the science merely provides the interesting scenario in which to examine these issues.
+Character Axes:
 
-Strong upfront player engagement
+Rover-Janet
+	Rover
+	Janet
 
-Episode should stand alone, as well as work as sequel
+Rover-Elva
+	Rover
+	Elva
 
-Some analogue of the remember verb
+Elva-Janet
+	Janet
+		early - Elva shouldn't be on board; she's a burden and a draw on resources. Janet doesn't think Elva can understand anything as complex as the ship, and is worried that Elva might touch the wrong things. Sees Elva as a grouchy, grandmother, a cog-in-the-machine civil servant who's just hanging on to her lowly janitorial job until mandatory retirement to boost her pension.
+		mid - 
+		late - 
 
-"Building sense of urgency" — which Emily liked so much.   
-Probably comes from years of Nascrag end-of-round-2-death-trap scenarios.  But a bit of nail-biting (like the boarding scene) is good once per adventure.  :-)  A golden banana of discord.  Literally.  -Ben Collins-Sussman 10/14/09 11:35 AMHah! -john welch 10/15/09 11:11 PM 
+	Elva
+		early - Sees Janet as a media darling after the first mission, and someone who didn't deserve promotion to Directorship. Janet is too young and inexperienced to lead. Considers Janet an eccentric prima donna, who doesn't have the slightest inkling of command responsibilities.
+		mid -
+		late - Towards the end, Elva is interested in fixing Janet up with her son (add tragic backstory about her daughter-in-laws' death during Independence War).
 
-Some of the props from RDO should appear 
--- e.g., Janet's oversize blue futon should end up in her bedroom on the ship.
-
-
-NON-GOALS — AVOID THESE!
-Waking up with a hangover, in a cave, speaking only German.
-Boredom and repetition.
-Anything that will lose the fickle faith of the judges/players in the first ten minutes.
-Obvious technomasturbation à la this year's unix command line, man pages, etc.
-Multiple character perspectives.
 </Text>
         </Document>
+        <Document ID="24">
+            <Title>Ending</Title>
+            <Synopsis>The Valkyrie is embedded too deeply in the planet to get out. Solutions? Self-destruct? Ask Lysithians for Mercy? Connect planetary power to Valkyrie and Casimir jump the entire planet?</Synopsis>
+        </Document>
         <Document ID="3">
-            <Title>Elva Intro</Title>
-            <Text>Greyish-brown liquid swirls gently, mixing with a purple puddle only inches from your nose. The liquid feels cool against the throbbing left side of your head which rests on metallic floor.
+            <Title>Elva Wakes Up</Title>
+            <Synopsis>Elva wakes up in the kitchen, realizes she’s been knocked out by cleaning fluid vapors, uses the stove exhaust to clear the air, and exits the kitchen to explore the ship. Some background and exposition through her inventory, and the locket.</Synopsis>
+            <Text>Greyish-brown liquid swirls gently, mixing with a purple puddle only inches from your nose. The liquid feels cool against the throbbing left side of your head which rests on the metallic floor.
 
 >about
 [about text, help, credits, etc.]
@@ -158,39 +162,101 @@ I regret, madame, that I lack the means to perform that self-referential action.
 [4] "Don't call me madame, it makes me grumpy. My name's Elva."
 [0] To say nothing. </Text>
         </Document>
-        <Document ID="11">
-            <Title>Concept Pitch 1</Title>
-            <Text>
-        Cast: Three characters are present on the Valkyrie: Janet, Rover and Elva the Cleaning Lady. 
+        <Document ID="22">
+            <Title>Janet Explores</Title>
+            <Synopsis>Janet leaves Rover in charge, tells Elva not to touch anything. Janet finds traces of past civilization, but can’t translate. She is trapped, and uses ansible to call for help. Now it is a race against time before Lysithians show up.</Synopsis>
+        </Document>
+        <Document ID="12">
+            <Title>Concept Pitch 2</Title>
+            <Text>David's dead but not gone. Having access to Janet's synaptic scanner, he made a backup of himself just before he and Janet went over to debrief Valkyrie. He sent his backup to Earth, where it was restored into...something. Perhaps another ship? Now David is the ACU of an Earth military ship that's been sent out to hunt down Janet and Rover... Nice idea.  Especially when we can throw *two* antagonists into the plot now (Earth and Lysithia).  David could be the more tangible, present enemy, while Lysithians are the omnipresent background threat we're trying to avoid attention from.  -Ben Collins-Sussman 10/14/09 10:59 AM  </Text>
+        </Document>
+        <Document ID="7">
+            <Title>Assumptions</Title>
+            <Text>MARSmil came up with a way to allow living organisms to withstand Casimir jumps. It's risky, particularly given the multiple jumps necessary to reach Aurora -- that's one of the reasons that Janet and Rover meant to go it alone.
 
-* Elva was introduced in the first paragraph of RDO, and she's based on one of the janitors who worked late nights at the institution where I did my doctoral research. She's a chain smoker, a hypochondriac, a grandmother, an ex-marine, and anything else we need her to be. We could consider a few explanations about how she ended up on board such as hitting her head on a bulkhead before launch, breathing in a bad mixture of cleaning chemicals, etc., but whatever the explanation, she isn't found until after the first Casimir jump, and for logistic reasons (or perhaps because they don't want to attract attention from Earth), Valkyrie can't turn back. The story is told from Elva's perspective, which is convenient for avoiding technobabblecreep: she's the ship's janitor and aside from a general familiarity with the technology of her time, she isn't too sophisticated; in fact, she's something of a luddite. It's reasonable for her and the player to learn as they go. To make it interesting, Elva also isn't a very good reader. Not so much illiteracy or dyslexia -- more a matter of experimental drugs, oxygen deprivation, attitude and lack of patience.  LOVE the idea of Elva being the player/narrator!  Perhaps we could split up the plot and allow the player to play Janet and Rover at other points too -- much like photopia, but not quite as schitzophrenic.  More like Hitchhiker's guide.  -Ben Collins-Sussman 10/14/09 10:54 AM 
-* Janet - Appointed to Head of MARSpace after events in RDO. She has issues with the loss of Tomasz and betrayal by David. She has not enjoyed the limelight, nor her increased responsibilities as director of MARSpace; really, she'd rather be coding. She insisted on piloting Valkyrie alone on this mission, ostensibly because of concern about Casimir jumping living organisms, but also because she wanted to get away from it all. Janet has more-than-human knowledge about the way Valkyrie works because after the mission, a diff was created between the ACUs mental state and Janet's at the time of her earlier synaptic scan. The fork was remerged, giving Janet awareness of what it was like to be the ACU, and of everything that the ACU experienced. Janet is still trying to fully integrate that experience.
-* Rover - In order to find out what the ROVER had experienced, the same process was performed merging the ROVER memories on top of Rover's. To verbalize these memories, Rover himself required an upgrade -- a cybernetic implant to expand his memory and to perform higher order cognitive functions. He also needed a verbal center to express himself. Here, Janet was able to pull some of her early work from graduate school in which Tomasz had served as her test subject. Consequently, Rover not only talks like Tomasz, but due to the holographic nature of human memory storage, he has acquired some of Tomasz's memories and personality. The Rover/Janet relationship should offer a lot of room for exploration.  Ooooh, awesome character tension... -Ben Collins-Sussman 10/14/09 10:55 AM 
-* Valkyrie has been updated to maintain itself, but is no longer sentient.
-Schtick: 
-    * Brief exposition; introduction of Elva
+I don't think we should give a full technical explanation, other than there's some sort of extensive biological preparation and "jump pods" involved.
 
-* Everyone has a communicator/implant -- this allows everyone to talk/listen regardless of where they are (on/off camera). This means that short Rover/Janet conversations can occur in metatext when they aren't directed to/from Elva.
-    * Rover and Janet find something interesting on the planet, take a shuttle down, tell Elva not to touch anything.
-    * The Lysithians arrive, capture Rover/Janet; Elva hears everything   As I babbled earlier, I think the Lysithians can be all the more mysterious (and menancing) if their existence is kept "offstage" -- allowing our player's imagination to fill in the details of just how scary they are.  -Ben Collins-Sussman 10/14/09 10:56 AM 
-    * stuff happens...
+Elva managed to get through a couple jumps without these special arrangements because 1) she knocked herself out with cleaning chemicals and 2) she's just that tough.</Text>
+        </Document>
+        <Document ID="21">
+            <Title>Rover in the middle</Title>
+            <Synopsis>Rover can run back and forth between Elva (command center) and Janet (engineering). He puts together what’s going on, but can’t fully express it to either. The solution is for him to bring Elva and Janet together one way or another.</Synopsis>
+        </Document>
+        <Document ID="6">
+            <Title>Plot Outline</Title>
+        </Document>
+        <Document ID="17">
+            <Title>Newer outline</Title>
+            <Text>We need to capture the latest outline we discussed when Ben visited Jack’s house!
+</Text>
+        </Document>
+        <Document ID="18">
+            <Title>Elva wakes up</Title>
+            <Synopsis>Convey some background through inventory
+locket: introduce a "remember" system to give deeper background as needed
+realizes cleaning fluid vapors knocked her out
+to leave kitchen: needs to turn on stove's exhaust fan
+stove is an NPC (and one of the few ship systems that will respond to Elva)
+Elva can look out window &amp; realize she's in space</Synopsis>
+        </Document>
+        <Document ID="20">
+            <Title>Rover wakes up</Title>
+            <Synopsis>Rover wakes up in his pod, disoriented. He can explore around the command center a bit. When he wakes Janet up, she recognizes the system failure. She trips over Elva’s body just outside the bridge door, ties Elva up, and tells Rover to keep guard. </Synopsis>
+        </Document>
+        <Document ID="10">
+            <Title>Goals</Title>
+            <Text>More character-driven.
+One of the big 'challenges' I want to get into is developing exciting, humorous, *believable* NPCs in Inform7 -- a task that is near and dear to Emily Short's own research efforts.  This is a real challenge and there's a lot of prior work to study and build on.   Character relationships should be at the heart of the story.
 
+Conversational Focus
+In writing the sequel I'd like to make a very conscious effort to be efficient in terms of writing time -- this is more of an issue this year since I won't have a long, European vacation all summer in 2010. The writing for RDO was broad and deep -- there's stuff in there that no one will ever hit, but I enjoyed putting it in for that 1/100 person that will randomly try to surrender in French, attempt to sudo the ACU, etc. While I enjoy these Easter Eggs, I'd like to focus on game elements that are likely to be seen, and to smoothly highlight those elements so that the amount of time spent working on a section is mirrored by player exposure those sections. Every object will still have strong depth of description, but overall, I'd like to pick our battles more selectively. If we chose one item to focus our firepower on in this game, I'd like it to be conversation. It's an IF holy grail, and something that not many people can do well. There's also room for innovation (see section "conversation").
+
+Less hard sci-fi, more ethical/moral tensions
+Emily Short believes that good sci-fi is mainly about the question of what it means to be human, and/or ethical/moral;  the science merely provides the interesting scenario in which to examine these issues.
+
+Strong upfront player engagement
+
+Episode should stand alone, as well as work as sequel
+
+Some analogue of the remember verb
+
+"Building sense of urgency" — which Emily liked so much.   
+Probably comes from years of Nascrag end-of-round-2-death-trap scenarios.  But a bit of nail-biting (like the boarding scene) is good once per adventure.  :-)  A golden banana of discord.  Literally.  -Ben Collins-Sussman 10/14/09 11:35 AMHah! -john welch 10/15/09 11:11 PM 
+
+Some of the props from RDO should appear 
+-- e.g., Janet's oversize blue futon should end up in her bedroom on the ship.
+
+
+NON-GOALS — AVOID THESE!
+Waking up with a hangover, in a cave, speaking only German.
+Boredom and repetition.
+Anything that will lose the fickle faith of the judges/players in the first ten minutes.
+Obvious technomasturbation à la this year's unix command line, man pages, etc.
+Multiple character perspectives.
 </Text>
         </Document>
         <Document ID="16">
             <Title>Older outline</Title>
-            <Text>	◦	Elva wakes up.
+            <Text>POV Elva
+	◦	Elva regains consciousness
 	▪	convey some background through inventory
 	▪	locket: introduce a "remember" system to give deeper background as needed
 	▪	realizes cleaning fluid vapors knocked her out
 	▪	to leave kitchen: needs to turn on stove's exhaust fan
 	▪	stove is an NPC (and one of the few ship systems that will respond to Elva)
 	▪	Elva can look out window &amp; realize she's in space
-	◦	Elva can explore ship
-	▪	Her access is relatively limited at this point, as she's not on the crew roster.
-	▪	Meanwhile, Janet and Rover go about their routine offstage - the place the encounter Elva will vary; whoever meets Elva calls for the other
-	▪	If Elva is not met in time for the next jump, the next jump is rough on her
-	▪	If Elva monkeys with stuff on the ship, Janet/Rover will come to investigate
+	◦	Elva can explore ship and in doing so damages it 
+	▪	Her access is relatively limited at this point, as she's not on the crew roster — needs to break her way through the deactivatd portions of the ships.
+	▪	Possible encounter / misunderstanding with a repair bot?
+	▪	Encounters a sabatoged device which would end the mission - can’t repair it, but disables it, stranding Valkyrie in interstellar space, and triggering wake up for Rover and Janet.
+
+POV Rover
+	◦	
+
+
+
+
+
 	◦	Elva meets Janet and Rover
 	▪	Surprise immediately becomes distrust -- why is Elva here? Is she an Earth spy? How could she have survived the Casimir jumps?
 	▪	Arrive at planet - Janet becomes dismissive - you want to help? Go make some sandwiches. Rover and Janet become involved with technostuff, ignoring Elva.
@@ -223,48 +289,20 @@ Schtick:
         <Document ID="4">
             <Title>Goals</Title>
         </Document>
-        <Document ID="5">
-            <Title>Characters</Title>
-            <Text>3 Protagonists:
-
-Janet 
-Rover
-Elva
-
-Character Axes:
-
-Rover-Janet
-	Rover
-	Janet
-
-Rover-Elva
-	Rover
-	Elva
-
-Elva-Janet
-	Janet
-		early - Elva shouldn't be on board; she's a burden and a draw on resources. Janet doesn't think Elva can understand anything as complex as the ship, and is worried that Elva might touch the wrong things. Sees Elva as a grouchy, grandmother, a cog-in-the-machine civil servant who's just hanging on to her lowly janitorial job until mandatory retirement to boost her pension.
-		mid - 
-		late - 
-
-	Elva
-		early - Sees Janet as a media darling after the first mission, and someone who didn't deserve promotion to Directorship. Janet is too young and inexperienced to lead. Considers Janet an eccentric prima donna, who doesn't have the slightest inkling of command responsibilities.
-		mid -
-		late - Towards the end, Elva is interested in fixing Janet up with her son (add tragic backstory about her daughter-in-laws' death during Independence War).
+        <Document ID="14">
+            <Title>Conversation Strategies</Title>
+            <Text> I like conveying information via dialogue, but the medium is not very well suited to long passages. Most of the David/Janet dialogue was short exchanges, and I think this works well. It will have more of a game versus literary feel, but I'm comfortable making that design decision.
+On conversation systems: Originally, I didn't like menu-drive conversation because it seemed to take too much freedom away from the player. I did both ask/show/tell and menu-driven in 9/10ths, and the ask/tell system is used exclusively in RDO. After the RDO experience, it's more clear to me that both approaches are closed systems. After phototopia and others, I'm leaning in favor of the menu-driven approach because it can give a stronger voice to the characters. It may impinge on the agency of the player, but we'll have to be sensitive to that issue.
+Here's an idea that has been percolating in my head for a while: 
+In the early game, Elva meets up with Rover and Janet, and their dialogue takes place on screen, as usual.
+Before Janet and Rover go on their away mission, Janet hooks everyone up with little hats which can turn thoughts into radio broadcasts -- not every thought, thoughts which are verbalized. She does this in order to assure that they have a constant "hands free" link. When the link goes active, I'd like to dedicate some screen real estate to Elva, Janet and Rover. It may be a challenge to do this in ways that 1) work on smaller screens (mobile devices in particular), 2) don't break glk, 3) keep the timing and relationship between thoughts clear, and 4) allow for some scroll-back in case things went by too quickly.
+One possible way to do this would be to have three parallel one line windows at the top or bottom (a little like Earl Grey's commentary) and to scroll the buffer right to left, like a news ticker. It might take some doing (bordering on glx-machine abuse) to get the line to slide back and forth. If the space were two characters high, we could use more traditional scroll bars (indeed, you'd expect these to be implemented by the interpreter, an expectation that certainly won't be met on the low-end glk implementations).
+For instance see this picture.
+Having the mind-link does a few things for us -- it gives us a reason to keep Rover &amp; Janet in "conversation scope" over a larger proportion of the game. The more exposure we have to David and Janet, the better we can do in terms of character exploration. However, since their dialogue is not directly inline, it means that they can carry on, make external comments, etc., without derailing Elva's descriptive text and actions. We get solo-exploration, but keep a social element.
+By making the link rely on radio, we can limit the effect when we want, and have some fun. For instance, there could be a one-turn speed-of-light delay in conversation when Rover/Janet are a planet away from Elva. Kind of an auditory Byzantine Perspective.
+I'd like to use menu-drive text for PC speech. The menu can either come up in reaction to something the NPC does/says, or directly when the player says to "talk to..." someone.
 
 </Text>
-        </Document>
-        <Document ID="12">
-            <Title>Concept Pitch 2</Title>
-            <Text>David's dead but not gone. Having access to Janet's synaptic scanner, he made a backup of himself just before he and Janet went over to debrief Valkyrie. He sent his backup to Earth, where it was restored into...something. Perhaps another ship? Now David is the ACU of an Earth military ship that's been sent out to hunt down Janet and Rover... Nice idea.  Especially when we can throw *two* antagonists into the plot now (Earth and Lysithia).  David could be the more tangible, present enemy, while Lysithians are the omnipresent background threat we're trying to avoid attention from.  -Ben Collins-Sussman 10/14/09 10:59 AM  </Text>
-        </Document>
-        <Document ID="17">
-            <Title>Newer outline</Title>
-            <Text>We need to capture the latest outline we discussed when Ben visited Jack’s house!
-</Text>
-        </Document>
-        <Document ID="6">
-            <Title>Plot Outline</Title>
         </Document>
         <Document ID="13">
             <Title>Concept Pitch 3</Title>
@@ -280,28 +318,32 @@ Yes indeed, I think the plot should mainly involve 2 or 3 characters simultaneou
 
  </Text>
         </Document>
-        <Document ID="7">
-            <Title>Assumptions</Title>
-            <Text>MARSmil came up with a way to allow living organisms to withstand Casimir jumps. It's risky, particularly given the multiple jumps necessary to reach Aurora -- that's one of the reasons that Janet and Rover meant to go it alone.
+        <Document ID="11">
+            <Title>Concept Pitch 1</Title>
+            <Text>
+        Cast: Three characters are present on the Valkyrie: Janet, Rover and Elva the Cleaning Lady. 
 
-I don't think we should give a full technical explanation, other than there's some sort of extensive biological preparation and "jump pods" involved.
+* Elva was introduced in the first paragraph of RDO, and she's based on one of the janitors who worked late nights at the institution where I did my doctoral research. She's a chain smoker, a hypochondriac, a grandmother, an ex-marine, and anything else we need her to be. We could consider a few explanations about how she ended up on board such as hitting her head on a bulkhead before launch, breathing in a bad mixture of cleaning chemicals, etc., but whatever the explanation, she isn't found until after the first Casimir jump, and for logistic reasons (or perhaps because they don't want to attract attention from Earth), Valkyrie can't turn back. The story is told from Elva's perspective, which is convenient for avoiding technobabblecreep: she's the ship's janitor and aside from a general familiarity with the technology of her time, she isn't too sophisticated; in fact, she's something of a luddite. It's reasonable for her and the player to learn as they go. To make it interesting, Elva also isn't a very good reader. Not so much illiteracy or dyslexia -- more a matter of experimental drugs, oxygen deprivation, attitude and lack of patience.  LOVE the idea of Elva being the player/narrator!  Perhaps we could split up the plot and allow the player to play Janet and Rover at other points too -- much like photopia, but not quite as schitzophrenic.  More like Hitchhiker's guide.  -Ben Collins-Sussman 10/14/09 10:54 AM 
+* Janet - Appointed to Head of MARSpace after events in RDO. She has issues with the loss of Tomasz and betrayal by David. She has not enjoyed the limelight, nor her increased responsibilities as director of MARSpace; really, she'd rather be coding. She insisted on piloting Valkyrie alone on this mission, ostensibly because of concern about Casimir jumping living organisms, but also because she wanted to get away from it all. Janet has more-than-human knowledge about the way Valkyrie works because after the mission, a diff was created between the ACUs mental state and Janet's at the time of her earlier synaptic scan. The fork was remerged, giving Janet awareness of what it was like to be the ACU, and of everything that the ACU experienced. Janet is still trying to fully integrate that experience.
+* Rover - In order to find out what the ROVER had experienced, the same process was performed merging the ROVER memories on top of Rover's. To verbalize these memories, Rover himself required an upgrade -- a cybernetic implant to expand his memory and to perform higher order cognitive functions. He also needed a verbal center to express himself. Here, Janet was able to pull some of her early work from graduate school in which Tomasz had served as her test subject. Consequently, Rover not only talks like Tomasz, but due to the holographic nature of human memory storage, he has acquired some of Tomasz's memories and personality. The Rover/Janet relationship should offer a lot of room for exploration.  Ooooh, awesome character tension... -Ben Collins-Sussman 10/14/09 10:55 AM 
+* Valkyrie has been updated to maintain itself, but is no longer sentient.
+Schtick: 
+    * Brief exposition; introduction of Elva
 
-Elva managed to get through a couple jumps without these special arrangements because 1) she knocked herself out with cleaning chemicals and 2) she's just that tough.</Text>
-        </Document>
-        <Document ID="14">
-            <Title>Conversation Strategies</Title>
-            <Text> I like conveying information via dialogue, but the medium is not very well suited to long passages. Most of the David/Janet dialogue was short exchanges, and I think this works well. It will have more of a game versus literary feel, but I'm comfortable making that design decision.
-On conversation systems: Originally, I didn't like menu-drive conversation because it seemed to take too much freedom away from the player. I did both ask/show/tell and menu-driven in 9/10ths, and the ask/tell system is used exclusively in RDO. After the RDO experience, it's more clear to me that both approaches are closed systems. After phototopia and others, I'm leaning in favor of the menu-driven approach because it can give a stronger voice to the characters. It may impinge on the agency of the player, but we'll have to be sensitive to that issue.
-Here's an idea that has been percolating in my head for a while: 
-In the early game, Elva meets up with Rover and Janet, and their dialogue takes place on screen, as usual.
-Before Janet and Rover go on their away mission, Janet hooks everyone up with little hats which can turn thoughts into radio broadcasts -- not every thought, thoughts which are verbalized. She does this in order to assure that they have a constant "hands free" link. When the link goes active, I'd like to dedicate some screen real estate to Elva, Janet and Rover. It may be a challenge to do this in ways that 1) work on smaller screens (mobile devices in particular), 2) don't break glk, 3) keep the timing and relationship between thoughts clear, and 4) allow for some scroll-back in case things went by too quickly.
-One possible way to do this would be to have three parallel one line windows at the top or bottom (a little like Earl Grey's commentary) and to scroll the buffer right to left, like a news ticker. It might take some doing (bordering on glx-machine abuse) to get the line to slide back and forth. If the space were two characters high, we could use more traditional scroll bars (indeed, you'd expect these to be implemented by the interpreter, an expectation that certainly won't be met on the low-end glk implementations).
-For instance see this picture.
-Having the mind-link does a few things for us -- it gives us a reason to keep Rover &amp; Janet in "conversation scope" over a larger proportion of the game. The more exposure we have to David and Janet, the better we can do in terms of character exploration. However, since their dialogue is not directly inline, it means that they can carry on, make external comments, etc., without derailing Elva's descriptive text and actions. We get solo-exploration, but keep a social element.
-By making the link rely on radio, we can limit the effect when we want, and have some fun. For instance, there could be a one-turn speed-of-light delay in conversation when Rover/Janet are a planet away from Elva. Kind of an auditory Byzantine Perspective.
-I'd like to use menu-drive text for PC speech. The menu can either come up in reaction to something the NPC does/says, or directly when the player says to "talk to..." someone.
+* Everyone has a communicator/implant -- this allows everyone to talk/listen regardless of where they are (on/off camera). This means that short Rover/Janet conversations can occur in metatext when they aren't directed to/from Elva.
+    * Rover and Janet find something interesting on the planet, take a shuttle down, tell Elva not to touch anything.
+    * The Lysithians arrive, capture Rover/Janet; Elva hears everything   As I babbled earlier, I think the Lysithians can be all the more mysterious (and menancing) if their existence is kept "offstage" -- allowing our player's imagination to fill in the details of just how scary they are.  -Ben Collins-Sussman 10/14/09 10:56 AM 
+    * stuff happens...
 
 </Text>
+        </Document>
+        <Document ID="19">
+            <Title>Elva explores</Title>
+            <Synopsis>Elva makers her way towards the bridge, but damages some systems while doing so. She also finds and disables a sabotaged system, dropping the ship out of Casimir drive. The transition knocks her out.</Synopsis>
+        </Document>
+        <Document ID="23">
+            <Title>The Rescue</Title>
+            <Synopsis>Elva jumps Valkyrie into the planet. Rover translates the artifacts, and they understand what’s going on. The underground base powers up as the Lysithians approach.</Synopsis>
         </Document>
     </Documents>
 </SearchIndexes>
